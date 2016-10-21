@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="nearby_stores">Search nearby stores</string>
+    <string name="delhi">Delhi</string>
+    <string name="noida">Noida</string>
+    <string name="gurgaon">Gurgaon</string>
+    <string name="mumbai">Mumbai</string>
+    <string name="chennai">Chennai</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="kolkata">Kolkata</string>
+    <string name="drive">Drive</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="google_plus">G Plus</string>
+    <string name="instagram">Instagram</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="skype">Skype</string>
+    <string name="tumblr">Tumblr</string>
+    <string name="twitter">Twitter</string>
+    <string name="vimeo">Vimeo</string>
+    <string name="youtube">Youtube</string>
+</resources>
